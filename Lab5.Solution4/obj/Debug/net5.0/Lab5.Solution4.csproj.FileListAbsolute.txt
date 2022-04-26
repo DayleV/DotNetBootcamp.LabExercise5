@@ -1,0 +1,16 @@
+C:\Users\dayle.villanda\Documents\Bootcamp\Back End\C#\Lab5\Lab5.Solution4\obj\Debug\net5.0\Lab5.Solution4.csproj.AssemblyReference.cache
+C:\Users\dayle.villanda\Documents\Bootcamp\Back End\C#\Lab5\Lab5.Solution4\obj\Debug\net5.0\Lab5.Solution4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dayle.villanda\Documents\Bootcamp\Back End\C#\Lab5\Lab5.Solution4\obj\Debug\net5.0\Lab5.Solution4.AssemblyInfoInputs.cache
+C:\Users\dayle.villanda\Documents\Bootcamp\Back End\C#\Lab5\Lab5.Solution4\obj\Debug\net5.0\Lab5.Solution4.AssemblyInfo.cs
+C:\Users\dayle.villanda\Documents\Bootcamp\Back End\C#\Lab5\Lab5.Solution4\obj\Debug\net5.0\Lab5.Solution4.csproj.CoreCompileInputs.cache
+C:\Users\dayle.villanda\Documents\Bootcamp\Back End\C#\Lab5\Lab5.Solution4\bin\Debug\net5.0\Lab5.Solution4.exe
+C:\Users\dayle.villanda\Documents\Bootcamp\Back End\C#\Lab5\Lab5.Solution4\bin\Debug\net5.0\Lab5.Solution4.deps.json
+C:\Users\dayle.villanda\Documents\Bootcamp\Back End\C#\Lab5\Lab5.Solution4\bin\Debug\net5.0\Lab5.Solution4.runtimeconfig.json
+C:\Users\dayle.villanda\Documents\Bootcamp\Back End\C#\Lab5\Lab5.Solution4\bin\Debug\net5.0\Lab5.Solution4.runtimeconfig.dev.json
+C:\Users\dayle.villanda\Documents\Bootcamp\Back End\C#\Lab5\Lab5.Solution4\bin\Debug\net5.0\Lab5.Solution4.dll
+C:\Users\dayle.villanda\Documents\Bootcamp\Back End\C#\Lab5\Lab5.Solution4\bin\Debug\net5.0\Lab5.Solution4.pdb
+C:\Users\dayle.villanda\Documents\Bootcamp\Back End\C#\Lab5\Lab5.Solution4\obj\Debug\net5.0\Lab5.Solution4.dll
+C:\Users\dayle.villanda\Documents\Bootcamp\Back End\C#\Lab5\Lab5.Solution4\obj\Debug\net5.0\refint\Lab5.Solution4.dll
+C:\Users\dayle.villanda\Documents\Bootcamp\Back End\C#\Lab5\Lab5.Solution4\obj\Debug\net5.0\Lab5.Solution4.pdb
+C:\Users\dayle.villanda\Documents\Bootcamp\Back End\C#\Lab5\Lab5.Solution4\obj\Debug\net5.0\Lab5.Solution4.genruntimeconfig.cache
+C:\Users\dayle.villanda\Documents\Bootcamp\Back End\C#\Lab5\Lab5.Solution4\obj\Debug\net5.0\ref\Lab5.Solution4.dll

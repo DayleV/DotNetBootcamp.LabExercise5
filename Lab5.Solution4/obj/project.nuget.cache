@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WdIG5vfTz19CQbJcX0NzxJH4Ncbs8aCZbhF9Kcu8QC2Ogdk3X94rLqf9+bOHeXxN2L4CSAVmDQgRjnTzh3je8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dayle.villanda\\Documents\\Github\\pointwest-files\\BackEnd\\C#\\Lab5\\Lab5.Solution4\\Lab5.Solution4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dayle.villanda\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
